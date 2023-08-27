@@ -1,0 +1,9 @@
+button {
+  background-color: coral;
+  color: floralwhite;
+  cursor: pointer;
+}
+body {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
